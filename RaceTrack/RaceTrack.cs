@@ -65,6 +65,7 @@ namespace RaceTrack.RaceTrack
             Thread.Sleep(1000);
         }
 
+
         public void AnnounceWinners()
         {
             var position = 0;
